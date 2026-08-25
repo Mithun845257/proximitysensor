@@ -173,7 +173,7 @@ ACTIVITY.XML
         android:gravity="center"/>
 
 </LinearLayout>
-
+```
 ## OUTPUT
 <img width="1920" height="1080" alt="Screenshot (91)" src="https://github.com/user-attachments/assets/a0933032-f5c4-41ee-99d6-72be50475cf7" />
 
